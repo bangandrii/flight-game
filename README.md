@@ -1,8 +1,8 @@
 # Langit Nusantara
 
-[![make.fun competition](https://make.fun/badge/best-flight-game-20261126-0057.svg)](https://make.fun/bounty/best-flight-game-20261126-0057)
-[![leaderboard](https://make.fun/api/competitions/best-flight-game-20261126-0057/badge/leaderboard.svg)](https://make.fun/bounty/best-flight-game-20261126-0057/leaderboard)
-[![enter](https://make.fun/api/competitions/best-flight-game-20261126-0057/badge/enter.svg)](https://make.fun/bounty/best-flight-game-20261126-0057)
+[![make.fun · best-flight-game-20261126-0057](https://make.fun/badge/best-flight-game-20261126-0057.svg)](https://make.fun/bounty/best-flight-game-20261126-0057?utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057)
+[![rank](https://make.fun/badge/best-flight-game-20261126-0057/bangandrii/flight-game/rank.svg)](https://make.fun/bounty/best-flight-game-20261126-0057/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057)
+[![reward](https://make.fun/badge/best-flight-game-20261126-0057/bangandrii/flight-game/reward.svg)](https://make.fun/bounty/best-flight-game-20261126-0057?utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057)
 
 Langit Nusantara (Nusantara Skies) is an original flight simulation and arcade adventure set across the breathtaking procedural islands and volcanic mountains of the Indonesian archipelago. Steer your red-and-white propeller plane through glowing golden target rings, manage throttle and altitude on authentic lit cockpit instruments, complete legs over island runways, and beat the run timer to conquer the skies.
 
